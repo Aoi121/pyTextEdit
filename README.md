@@ -4,6 +4,7 @@ Vim-like text editor I've been creating in python.
 ## Features
 * Open files within the editor and from the terminal
   * Use the argument `-f` to open files from the terminal
+  * Files must be in the same directory as textEditor2.py
 * Saving and loading of files
   * Saving files as
   * Overwriting files
@@ -27,3 +28,4 @@ Vim-like text editor I've been creating in python.
     - [ ] Change `:q` to quitting without saving.
   - [ ] Add `:u` for moving up a line.
   - [ ] Add `:d` for moving down a line.
+  - [ ] Add something like `:ls` for showing available files.
