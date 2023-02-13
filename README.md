@@ -22,3 +22,8 @@ Vim-like text editor I've been creating in python.
 - [x] Opening files in the editor  
 - [ ] Rework how files are read and printed.
 - [ ] Allow user to move their selected line and edit pre-exising lines.
+- [ ] Add more :commands
+  - [ ] `:sq` for saving and quiting
+    - [ ] Change `:q` to quitting without saving.
+  - [ ] Add `:u` for moving up a line.
+  - [ ] Add `:d` for moving down a line.
